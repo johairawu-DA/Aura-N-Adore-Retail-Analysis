@@ -71,6 +71,7 @@ The database stores information about branches, sales associates, product catego
 Several analytical SQL queries were developed to generate meaningful insights from the dataset. The Engagement Analysis identifies customers who have conducted multiple purchases, helping measure client retention and loyalty. The Category Contribution Analysis determines which product categories contribute most to the total revenue, providing insight into inventory performance and profitability.
 
 <img width="770" height="603" alt="Visualization Aura N Adore" src="https://github.com/user-attachments/assets/47ace6f2-9eac-4c9b-bb7b-5223861d3e5b" />
+Live view of dashboard: [Click Here] (https://app.powerbi.com/groups/me/reports/c3be9e05-28b0-4a2b-bbae-d587e5f6e258/c1d5a0f4b3da0b797d01?experience=power-bi)
 
 The Regional Ranking Analysis compares different branch location based on their total sales revenue to determine which cities and regions have the strongest market performance. The Temporal Trend Analysis also evaluates the monthly growth of sales transactions to understand how jewelry purchasing behavior changes over time.
 The results of these analyses provide valuable insights into sales productivity, inventory allocation, and branch-level performance.
